@@ -57,3 +57,10 @@ dotnet run --project API/API.csproj
 Nombre: Nadia Jones Jazmin
 
 Rol: QA Tester
+
+## Revisión de Pull Request de un compañero
+
+Revisado por: Nadia Jones Jazmin  
+Repo/PR: https://github.com/NadiaJaz/Reto-Backend/pull/1  
+Feedback: Durante la revisión se detectó que POST /users no valida la existencia de usuarios duplicados. Se recomienda agregar validación y pruebas automatizadas para este caso.  
+Conclusión: Revisar
